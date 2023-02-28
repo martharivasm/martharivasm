@@ -1,8 +1,8 @@
 ### Hola👋mi nombre es Martha Adriana Rivas Moran
 ### Estudio Sistemas Computacionales
 
-<h1 align="center">Hola 👋, Me Martha Adriana Rivas Moran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran</h1>
+<h3 align="center">A passionate frontend</h3>
 
 - 💬 Ask me about **htmal, css**
 
