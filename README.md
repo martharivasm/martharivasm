@@ -1,5 +1,4 @@
-### Hola👋mi nombre es Martha Adriana Rivas Moran
-### Estudio Sistemas Computacionales
+
 
 <h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran</h1>
 <h3 align="center">A passionate frontend</h3>
