@@ -1,5 +1,5 @@
-### Hi there 👋
-### Martha Adriana Rivas Moran
+### Hi there👋mi nombre es Martha Adriana Rivas Moran
+### Estudio Sistemas Computacionales
 
 <!--
 **martharivasm/martharivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
