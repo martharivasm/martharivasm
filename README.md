@@ -1,11 +1,10 @@
 
 
-<h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran</h1>
+<h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
 <h3 align="center">A passionate frontend</h3>
 
 - 💬 Ask me about **htmal, css**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
