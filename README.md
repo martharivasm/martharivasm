@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **html, css, php**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Lenguajes y herramientas</h3>
