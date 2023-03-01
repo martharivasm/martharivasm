@@ -2,15 +2,6 @@
 
 <h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
 
-<div class="idiomas">
-            <div class="esp idioma">
-                <img src="img/español.png" class="bandera active" alt="Español" title="Español">
-            </div>
-            <div class="eng idioma">
-                <a href="https://geraldogonzalez.github.io/portafolio/portafolio-en/index.html"><img src="img/english.png" class="bandera" alt="English" title="Inglés"></a>
-            </div>
-        </div>
-
 
 <h3 align="center">A passionate frontend</h3>
 
@@ -28,7 +19,7 @@
 <img align="center" src="https://starlingclinic.com/wp-content/uploads/2020/06/womens-health-icon.png"  width="40" height="40"/>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactame:</h3>
 <p align="center">
 <a href="https://fb.com/adriana rivas moran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adriana rivas moran" height="30" width="40" /></a>
 <a href="https://instagram.com/adriana rivas m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adriana rivas m" height="30" width="40" /></a>
