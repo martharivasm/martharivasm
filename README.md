@@ -2,6 +2,7 @@
 
 <h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
 
+<img align="center" src="https://st3.depositphotos.com/5934840/13315/v/950/depositphotos_133154386-stock-illustration-isolated-kawaii-laptop-design.jpg"  width="80" height="80"/>
 
 <h3 align="center">A passionate frontend</h3>
 
