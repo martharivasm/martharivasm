@@ -1,14 +1,15 @@
 
 
 <h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
-<body>
- <div class="contenedor contenedor-menu">
-            <a href="#sobre-mi">Sobre mí</a>
-            <a href="#proyectos">Proyectos</a>
-            <a href="#conocimientos">Habilidades</a>
-            <a href="#contacto">Contacto</a>
+
+<div class="idiomas">
+            <div class="esp idioma">
+                <img src="img/español.png" class="bandera active" alt="Español" title="Español">
+            </div>
+            <div class="eng idioma">
+                <a href="https://geraldogonzalez.github.io/portafolio/portafolio-en/index.html"><img src="img/english.png" class="bandera" alt="English" title="Inglés"></a>
+            </div>
         </div>
- </body>
 
 
 <h3 align="center">A passionate frontend</h3>
