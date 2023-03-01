@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate frontend</h3>
 
-- 💬 Preguntame sobre **html, css, php**
+<h3 align="center">💬 Preguntame sobre **html, css, php**</h3
 
 <p align="center">
 </p>
