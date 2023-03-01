@@ -16,8 +16,9 @@
 
 
 <h3 align="center">Algunos proyectos realizados</h3>
+<p align="center">
 <img align="center" src="https://starlingclinic.com/wp-content/uploads/2020/06/womens-health-icon.png"  width="40" height="40"/>
-
+</p>
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
