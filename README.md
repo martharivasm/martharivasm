@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
+<h1 align="center">Martha Adriana Rivas Moran👩</h1>
 
 <p align="center">
 <img align="center" rel="stylesheet"  src="https://1.bp.blogspot.com/-eJ82VVA64YQ/VVCrEZFt2RI/AAAAAAAAACc/fAcj1ld3hzw/s1600/Software.jpg" width="400" height="200" long="200"/>
