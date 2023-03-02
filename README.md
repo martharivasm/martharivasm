@@ -3,13 +3,13 @@
 <h1 align="center">Hola 👋, Me llamo Martha Adriana Rivas Moran👩</h1>
 
 <p align="center">
-<img align="center" src="https://blogs.unsw.edu.au/nowideas/files/2018/10/tecnologia.jpg"  width="400" height="200" long="200"/>
+<img align="center" src="https://1.bp.blogspot.com/-eJ82VVA64YQ/VVCrEZFt2RI/AAAAAAAAACc/fAcj1ld3hzw/s1600/Software.jpg" width="400" height="200" long="200"/>
   </p>
 
 <h3 align="center">A passionate frontend</h3>
 
--💬 Preguntame sobre **html, css, php** entre otros tipos de lenguajes, te mostrare información acerca de mi, compartire mis proyectos contigo, certificados, etc.📈
-- 📫 How to reach me **martharivazz@gmail.com**
+- 💬 Preguntame sobre **html, css, php** entre otros tipos de lenguajes, te mostrare información acerca de mi, compartire mis proyectos contigo, certificados, etc.📈
+- 📫 Correo eléctronico: **martharivazz@gmail.com**
 <p align="center">
 </p>
 
