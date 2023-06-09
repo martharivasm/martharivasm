@@ -35,7 +35,5 @@ Aplicacion para la salud Femenina Health Woman
 
 </p>
 <img src="https://github.com/martharivasm/martharivasm/assets/101753883/00942af4-c8b4-4a99-9c9e-ff954aed343c"
-     
-     
-<img src="https://github.com/martharivasm/martharivasm/assets/101753883/87902ecf-7c22-49d2-848b-e8e4d2ce3ced"
+"https://github.com/martharivasm/martharivasm/assets/101753883/87902ecf-7c22-49d2-848b-e8e4d2ce3ced"</img>
 
